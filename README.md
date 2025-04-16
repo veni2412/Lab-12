@@ -38,13 +38,13 @@
 |-----|------------------------------------------|---------------|--------------|
 | 1   | Style.css is not filled                  |   Narain      |  Whole Team  |
 | 2   | Updated users.py post to get in line 11  |   Venya       |  Venya       |
-| 3   |                                          |               |              |
-| 4   |                                          |               |              |
-| 5   |                                          |               |              |
-| 6   |                                          |               |              |
-| 7   |                                          |               |              |
-| 8   |                                          |               |              |
-| 9   |                                          |               |              |
+| 3   | Content type json in items.js            |   Tharani     |  Tharani     |
+| 4   | Added a container in items.html          |   Tharani     |  Tharani     |
+| 5   | POST to DELET in items.js                |   Tharani     |  Tharani     |
+| 6   | userCount changed to userCounts          |   Tharani     |  Tharani     |
+| 7   | await loadQuestion();                    |   Tharani     |  Tharani     |
+| 8   | const baseURL = "";                      |   Tharani     |  Tharani     |
+| 9   | PATCH to DELETE in profile.js            |   Tharani    |  Tharani     |
 | 10  |                                          |               |              |
 | 11  |                                          |               |              |
 | 12  |                                          |               |              |
