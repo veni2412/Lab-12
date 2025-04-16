@@ -46,9 +46,9 @@
 | 8   | const baseURL = "";                      |   Tharani     |  Tharani     |
 | 9   | PATCH to DELETE in profile.js            |   Tharani     |  Tharani     |
 | 10  | CORSMiddleware setup                     |   Tharani     |  Tharani     |
-| 11  | Delete in users.py                       |   Tharani     |  Tharani     |
-| 12  |                                          |               |              |
-| 13  |                                          |               |              |
+| 11  | updated styles.css                       |   Samraddhi   |  Samraddhi   |
+| 12  | added nav bar in analytics.html          |   Samraddhi   |  Samraddhi   |
+| 13  | Delete in users.py                       |   Tharani     |  Tharani     |
 | 14  |                                          |               |              |
 | 15  |                                          |               |              |
 | 16  |                                          |               |              |
