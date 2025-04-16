@@ -44,8 +44,8 @@
 | 6   | userCount changed to userCounts          |   Tharani     |  Tharani     |
 | 7   | await loadQuestion();                    |   Tharani     |  Tharani     |
 | 8   | const baseURL = "";                      |   Tharani     |  Tharani     |
-| 9   | PATCH to DELETE in profile.js            |   Tharani    |  Tharani     |
-| 10  |                                          |               |              |
+| 9   | PATCH to DELETE in profile.js            |   Tharani     |  Tharani     |
+| 10  | CORSMiddleware setup                     |   Tharani     |  Tharani     |
 | 11  |                                          |               |              |
 | 12  |                                          |               |              |
 | 13  |                                          |               |              |
