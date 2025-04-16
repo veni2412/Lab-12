@@ -37,7 +37,7 @@
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
 | 1   | Style.css is not filled                  |   Narain      |  Whole Team  |
-| 2   |                                          |               |              |
+| 2   | Updated users.py post to get in line 11  |   Venya       |  Venya       |
 | 3   |                                          |               |              |
 | 4   |                                          |               |              |
 | 5   |                                          |               |              |
