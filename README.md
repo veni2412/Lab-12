@@ -26,14 +26,18 @@
 
 ### Add the names of the members and roll numbers of your team below
 
-- Name : Roll Number
+- Veena Vadakkathmana Ramadas : 2024117008
+- Venya Velmurugan : 2024114002
+- Pratyush Vempati : 2024101001
+- Tharani Theertha : 2024115010
+- Samraddhi Singhai : 2024115015
 
 ### Table to keep track
 
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
 | 1   | Style.css is not filled                  |   Narain      |  Whole Team  |
-| 2   |                                          |               |              |
+| 2   | In the quiz.py router.get changed to router.post                                         |  Venya             |  Venya            |
 | 3   |                                          |               |              |
 | 4   |                                          |               |              |
 | 5   |                                          |               |              |
