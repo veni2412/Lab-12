@@ -46,7 +46,7 @@
 | 8   | const baseURL = "";                      |   Tharani     |  Tharani     |
 | 9   | PATCH to DELETE in profile.js            |   Tharani     |  Tharani     |
 | 10  | CORSMiddleware setup                     |   Tharani     |  Tharani     |
-| 11  |                                          |               |              |
+| 11  | Delete in users.py                       |   Tharani     |  Tharani     |
 | 12  |                                          |               |              |
 | 13  |                                          |               |              |
 | 14  |                                          |               |              |
