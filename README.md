@@ -37,9 +37,9 @@
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
 | 1   | Style.css is not filled                  |   Narain      |  Whole Team  |
-| 2   | In the quiz.py router.get changed to router.post                                         |  Venya             |  Venya            |
+| 2   | In the quiz.py router.get changed to router.post|  Venya |  Venya       |
 | 3   |                                          |               |              |
-| 4   |                                          |               |              |
+| 4   |   Removed home.js                        | Veena         |  Veena       |
 | 5   |                                          |               |              |
 | 6   |                                          |               |              |
 | 7   |                                          |               |              |
