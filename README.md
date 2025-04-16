@@ -33,8 +33,9 @@
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
 | 1   | Style.css is not filled                  |   Narain      |  Whole Team  |
-| 2   |                                          |               |              |
-| 3   |                                          |               |              |
+| 2   |                                          |            |              |
+| 3   |   quiz.py had a line question = questions[1]
+which allowed only the 2nd question to be asked each time, fixed by using random to generate a random question each time a question must be asked                                        |  Venya             |  Venya            |
 | 4   |                                          |               |              |
 | 5   |                                          |               |              |
 | 6   |                                          |               |              |
